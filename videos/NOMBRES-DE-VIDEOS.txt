@@ -1,0 +1,6 @@
+COPIA TUS VIDEOS MP4 AQUÍ CON ESTOS NOMBRES:
+video-01.mp4
+video-02.mp4
+video-03.mp4
+
+Después abre videos.html para verlos. Conserva exactamente los nombres y la extensión .mp4.

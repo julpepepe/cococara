@@ -1,0 +1,17 @@
+REEMPLAZA ESTOS ARCHIVOS POR TUS FOTOS, CONSERVANDO LOS NOMBRES:
+foto-portada.jpg
+foto-primer-encuentro.jpg
+foto-primer-recuerdo.jpg
+foto-nuestro-comienzo.jpg
+foto-una-sonrisa.jpg
+foto-presente-01.jpg
+foto-presente-02.jpg
+foto-presente-03.jpg
+foto-presente-04.jpg
+foto-presente-05.jpg
+foto-presente-06.jpg
+
+PORTADAS OPCIONALES DE VIDEOS:
+video-portada-01.jpg
+video-portada-02.jpg
+video-portada-03.jpg
